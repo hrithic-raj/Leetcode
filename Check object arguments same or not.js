@@ -7,7 +7,7 @@
 
 function checkObj(obj1,obj2){
     for(let key in obj1){
-        return (obj1[key]!==obj2[key])
+        return (obj1[key]===obj2[key])
     }
 }
 console.log(checkObj({ name: "Benny", phone: "3325558745", email: "benny@edabit.com" },{ name: "Benny", phone: "3325558745", email: "benny@edabit.com" }))
