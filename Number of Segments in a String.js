@@ -8,4 +8,4 @@ var countSegments = function(s) {
 
 console.log(countSegments("Hello, my name is John")); //5
 console.log(countSegments("Hello")); //1
-console.log(countSegments('')); //00
+console.log(countSegments('')); //0
