@@ -17,9 +17,8 @@ function strReverse(str){
         result.push(x);
      }   
     }
-    return result;
+    return result.join(' ');
 }
 console.log(strReverse('Welcome to Bridgeon'));
 console.log(strReverse(" hello world "));
 console.log(strReverse("a good   example"));
-
