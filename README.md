@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/hrithic-raj/Leetcode/tree/master/0009-palindrome-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hrithic-raj/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hrithic-raj/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Array
