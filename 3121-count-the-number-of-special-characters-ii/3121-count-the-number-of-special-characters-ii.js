@@ -33,7 +33,4 @@ var numberOfSpecialChars = function(word) {
     }
     
     return count;
-    
-    console.log(firstUpper)
-    console.log(lastLower)
 };
