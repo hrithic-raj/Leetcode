@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/hrithic-raj/Leetcode/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/hrithic-raj/Leetcode/tree/master/0812-rotate-string) |
 | [1297-maximum-number-of-balloons](https://github.com/hrithic-raj/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [2129-capitalize-the-title](https://github.com/hrithic-raj/Leetcode/tree/master/2129-capitalize-the-title) |
 | [2502-sort-the-people](https://github.com/hrithic-raj/Leetcode/tree/master/2502-sort-the-people) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/hrithic-raj/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/hrithic-raj/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
