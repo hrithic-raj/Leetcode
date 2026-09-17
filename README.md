@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/hrithic-raj/Leetcode/tree/master/0013-roman-to-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hrithic-raj/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hrithic-raj/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/hrithic-raj/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/hrithic-raj/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [2502-sort-the-people](https://github.com/hrithic-raj/Leetcode/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/hrithic-raj/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3875-construct-uniform-parity-array-i](https://github.com/hrithic-raj/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
